@@ -1,4 +1,4 @@
-package com.groupb.week8todoapp;
+package com.groupb.week8todoapp.exceptions;
 
 public class UserNotFoundException extends RuntimeException {
     public UserNotFoundException(String message){

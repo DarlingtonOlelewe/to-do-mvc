@@ -1,6 +1,6 @@
 package com.groupb.week8todoapp.services.impl;
 
-import com.groupb.week8todoapp.UserNotFoundException;
+import com.groupb.week8todoapp.exceptions.UserNotFoundException;
 import com.groupb.week8todoapp.dto.EditTaskDto;
 import com.groupb.week8todoapp.dto.TaskDto;
 import com.groupb.week8todoapp.model.Task;

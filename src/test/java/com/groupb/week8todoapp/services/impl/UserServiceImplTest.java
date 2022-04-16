@@ -43,12 +43,6 @@ class UserServiceImplTest {
         user.getTasks().add(t1);
         user.getTasks().add(t2);
         ur.save(user);
-
-
-
-
-
-
     }
 
 
